@@ -1,0 +1,16 @@
+LengthArrow,15
+MarkerWidth,1
+
+Color,white,red
+Activity,A,2021-02-28,2021-04-04,,,,0
+Activity,B,2021-04-10,2021-05-10,,,,0
+
+Color,blue,
+Activity,C,2021-01-01,2021-01-31,,,,0
+Milestone,M,2021-02-15,,,right,top,,0
+AdvanceRow,1
+Activity,D,2021-01-20,2021-04-01,,,,0
+
+Activity,E,2021-01-05,2021-01-31,green,,,0
+Functionality,F,2021-02-28,0,5,green,,0
+
